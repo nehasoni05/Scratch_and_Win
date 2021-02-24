@@ -36,6 +36,7 @@ This Flutter app allows the user to select any 5 block from the total 25 present
 <img src="project_images/playgame_7.png" width="253"/>  &nbsp; &nbsp;  &nbsp; &nbsp;  
 </p>
 
+<h4>Developed By Neha Soni,<br/>Taught By <a href="https://github.com/harshkumarkhatri">Harsh Kumar Khatri</a></h4>
 
 ## Show some ❤️ and ⭐ the repo if you find it useful.
  ### Getting Started
