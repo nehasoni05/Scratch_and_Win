@@ -23,19 +23,19 @@ This Flutter app allows the user to select any 5 block from the total 25 present
 <h4>Watch the project video here:- <a href="https://drive.google.com/file/d/1bqUqcRDjlXNdMyJhOhRn7uc7ZCf4Aq25/view?usp=sharing">Scratch and Win game</a></h4>
 <b>Some Snaps from the App:-</b>
 <p float="left">
-<img src="project_images/homepage.png" width="250"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="project_images/gamerules.png" width="253"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="project_images/playgame_1.png" width="250"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  
+<img src="project_images/homepage.png" width="200"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="project_images/gamerules.png" width="203"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="project_images/playgame_1.png" width="200"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  
 </p>
 <p float="left">
-<img src="project_images/playgame_2.png" width="250"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="project_images/playgame_3.png" width="253"/>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="project_images/playgame_4.png" width="253"/>  &nbsp; &nbsp;  &nbsp; &nbsp;  
+<img src="project_images/playgame_2.png" width="200"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="project_images/playgame_3.png" width="203"/>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="project_images/playgame_4.png" width="203"/>  &nbsp; &nbsp;  &nbsp; &nbsp;  
 </p>
 <p float="left">
-<img src="project_images/playgame_5.png" width="250"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="project_images/playgame_6.png" width="253"/>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="project_images/playgame_7.png" width="253"/>  &nbsp; &nbsp;  &nbsp; &nbsp;  
+<img src="project_images/playgame_5.png" width="200"/> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="project_images/playgame_6.png" width="203"/>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+<img src="project_images/playgame_7.png" width="203"/>  &nbsp; &nbsp;  &nbsp; &nbsp;  
 </p>
 
 <h4>Developed By Neha Soni,<br/>Taught By <a href="https://github.com/harshkumarkhatri">Harsh Kumar Khatri</a></h4>
